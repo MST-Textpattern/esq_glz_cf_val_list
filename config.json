@@ -1,0 +1,9 @@
+{
+    "name": "esq_glzcfvallist",
+    "version": 1.03,
+    "description": "Output all values of a glz_custom_field",
+    "type": 0,
+    "order": 5,
+    "flags": 0,
+    "help": "For help or more information on <strong>esq_glzcfvallist</strong>, please see the <a href=\"http://forum.textpattern.com/viewtopic.php?id=34687\">forum thread</a>."
+}
